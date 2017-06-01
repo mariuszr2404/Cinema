@@ -1,4 +1,6 @@
 
+This is structure generated from maven
+
                                  AppMaven 
 
  Source archetype: weld-jsf-jee
