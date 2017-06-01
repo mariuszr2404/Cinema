@@ -1,2 +1,2 @@
 # Cinema
-Simple app in Javva EE using EJB, JPA, CDI, JSF, BOOTSTRAP 
+Simple app in JavaEE using EJB, JPA, CDI, JSF, BOOTSTRAP 
