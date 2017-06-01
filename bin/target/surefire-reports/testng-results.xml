@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.mario.AppMaven.HelloWorldTest">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="com.mario.AppMaven.HelloWorldTest">
+        <test-method status="PASS" signature="testGetText()" name="testGetText" duration-ms="3" started-at="2017-06-01T19:25:36Z" finished-at="2017-06-01T19:25:36Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
